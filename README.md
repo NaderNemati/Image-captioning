@@ -18,5 +18,5 @@ Central to the success of this endeavor is a meticulously curated dataset, compr
 
 Embark on an exciting journey through the art of Image Captioning. Dive into the codebase, explore the intricacies of neural network architectures, and witness the marriage of language and imagery. Your involvement in this repository is both encouraged and valued, as we collectively strive to illuminate the realm of image interpretation and caption generation.
 
-Should you have any questions, ideas for collaboration, or insights to share, please don't hesitate to reach out to [Nader Nemati](nnevar@utu.fi).
+Should you have any questions, ideas for collaboration, or insights to share, please don't hesitate to reach out to [Nader Nemati](mailto:nnevar@utu.fi).
 
